@@ -1,4 +1,4 @@
-# SupplierGPT - An Invoice Invoice Management Agent 
+# SupplierGPT - An Invoice Management Agent 
 
 ## Project Description
 
