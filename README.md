@@ -1,4 +1,4 @@
-# SupplierGPT - Team Trinity 
+# SupplierGPT - An Invoice Invoice Management Agent 
 
 ## Project Description
 
