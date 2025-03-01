@@ -95,7 +95,7 @@ This guide walks you through the complete process, from uploading an invoice to 
 
 ## 📞 Need Help?  
 
-For support, contact us at [your email] or open an issue on GitHub.  
+For any questions or support, please contact - Team Trinity Lakshay Kumar [lakshaykumar6041@gmail.com] , Tharun C [mrphysics2022d@Gmail.com] , Mohammad Aariz [mohd.aariz13518@gmail.com]
 
 ---
 
