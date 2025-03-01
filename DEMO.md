@@ -32,12 +32,17 @@ This guide walks you through the complete process, from uploading an invoice to 
 
 ## 🧠 3. AI-Powered Dispute Resolution  
 
-1. Click on an invoice to open the **SupplierGPT Chat Interface**.  
-2. Ask questions like:  
+1. Click on an invoice to open the **SupplierGPT Chat Interface**.  Which is connected to the backend database servers of the Customer companies and the invoice
+   is checked with a Auto-payement File Database
+
+   on both the files of data extracted through OCR and the Auto-payment Test File in the Customer DB are matched then there is no dispute
+   else The dispute Is rised and the payement is paused, so that the Supplier ask the status about the invoice
+
+2. The supplier may Ask questions like:  
    - ❓ *"Give me more Details about the Invoice (Invoice number or ordernumber)"*  
    - ❓ *"What's The current status of the Invoice?"*
    - ❓ *"Is there's Any Dispute occurs?"*
-3. SupplierGPT will analyze the dispute using **Retrieval-Augmented Generation (RAG)** and provide instant responses.  
+4. SupplierGPT will analyze the dispute using **Retrieval-Augmented Generation (RAG)** and provide instant responses.  
 
 📸 **Screenshot:**  
 ![WhatsApp Image 2025-03-01 at 08 15 11_33739616](https://github.com/user-attachments/assets/9415b3bc-628b-4332-9e2e-081b1d43238d)
