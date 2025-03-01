@@ -1,4 +1,4 @@
-# SupplierGPT
+# SupplierGPT - Team Trinity 
 
 ## Project Description
 
