@@ -54,9 +54,13 @@ To get started with SupplierGPT, follow these steps:
 
 ## Usage Instructions
 
-1. **Start the backend server:**
+1. **Create an .env file in backend and Start the backend server:**
+
+   .env and start the server
    ```bash
+   Google_API_KEY = ENTER_API_KEY
    python sqlAgent.py
+
 2. **Start the frontend server:**
    ```bash
    npm run dev
